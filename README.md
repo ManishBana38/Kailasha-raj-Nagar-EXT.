@@ -37,6 +37,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For inquiries, please reach out to:
-- **Email**: contact@kailasha.com
-- **Phone**: +91 123 456 7890
+- **Email**: kdhuruv@ymail.com
+- **Phone**: +91 8700566455
 
